@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Profilics</p>
+<h2 align="left">Profilics</h2>
 
 ###
 
