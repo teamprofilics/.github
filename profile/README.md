@@ -8,6 +8,7 @@
 
 ###
 
-<p align="left"></p>
+<h3 align="left">Welcome to Profilics.com!</h3>
+<p align="left">Profilics is a web development company specializing in custom websites, web applications, and digital solutions. We focus on creating high-performance, user-friendly websites tailored to your business needs.</p>
 
 ###
